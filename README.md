@@ -1,4 +1,4 @@
-## Name: KARTHIK KKRISNA
+## Name: KARTHIK KRISHNA
 ## Reg No: 212223240067
 # Series Queues with infinite capacity - Open Jackson Network
 
